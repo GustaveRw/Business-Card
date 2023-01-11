@@ -14,7 +14,7 @@ If you edit the script on your machine, you will have to run `npm link` to local
 
 
 
-![Card Demo](business-card-npm-generator.png)
+![Card Demo](card.png)
 
 
 
