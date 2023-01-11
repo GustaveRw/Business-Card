@@ -1,0 +1,26 @@
+{
+  "name": "business-card",
+  "version": "1.0.0",
+  "description": "A fun way to generate a business card using a terminal",
+  "main": "./bin/card.js",
+  "bin": {
+    "mbonyinshuti": "./bin/card.js"
+  },
+  "scripts": {
+    "start": "node ./bin/card.js"
+  },
+  "keywords": [
+    "business",
+    "card",
+    "card",
+    "business",
+    "npm",
+    "npx"
+  ],
+  "author": "Jean Marie Gustave MBONYINSHUTI",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.2"
+  }
+}
